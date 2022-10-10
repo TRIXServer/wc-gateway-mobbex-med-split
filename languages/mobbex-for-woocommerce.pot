@@ -1,0 +1,572 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Mobbex for Woocommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-06-27 04:23+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: geon.admin <carlos@grupoeon.com.ar>\n"
+"Language-Team: Español\n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Loco-Source-Locale: es_AR\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.0; wp-5.0\n"
+"X-Loco-Parser: loco_parse_po"
+
+#. Description of the plugin
+msgid "A small plugin that provides Woocommerce <-> Mobbex integration."
+msgstr ""
+
+#: includes/config-options.php:22 templates/category-settings.php:80
+#: templates/product-settings.php:65
+msgid "Access Token"
+msgstr ""
+
+#: includes/config-options.php:292
+msgid "Activar Modo Debug."
+msgstr ""
+
+#: includes/config-options.php:255
+msgid "Active"
+msgstr ""
+
+#: includes/config-options.php:57
+msgid "Add DNI field"
+msgstr ""
+
+#: includes/config-options.php:58
+msgid "Add DNI field on checkout."
+msgstr ""
+
+#: includes/config-options.php:236
+msgid "Advanced Configuration"
+msgstr ""
+
+#: includes/config-options.php:278
+msgid "Al autorizar un pago"
+msgstr ""
+
+#: includes/config-options.php:277
+msgid "Al capturar un pago"
+msgstr ""
+
+#: includes/config-options.php:244
+msgid ""
+"Allow to pay the operation with multiple cards (incompatible with "
+"marketplace)."
+msgstr ""
+
+#: includes/config-options.php:252
+msgid ""
+"Allow to pay the operation with multiple vendor (incompatible with multicard)"
+"."
+msgstr ""
+
+#: includes/config-options.php:16 templates/category-settings.php:73
+#: templates/product-settings.php:56
+msgid "API Key"
+msgstr ""
+
+#: includes/config-options.php:115
+msgid "Appearance"
+msgstr ""
+
+#: includes/admin/order.php:40 includes/admin/order.php:59
+msgid "Authorized"
+msgstr ""
+
+#: includes/admin/order.php:45
+#, php-format
+msgid "Authorized <span class=\"count\">(%s)</span>"
+msgid_plural "Authorized <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: gateway.php:87
+msgid "Awaiting Mobbex Webhook"
+msgstr ""
+
+#: controllers/payment.php:226 controllers/payment.php:228
+msgid "Awaiting payment"
+msgstr ""
+
+#: includes/admin/order.php:86
+msgid "Capture payment"
+msgstr ""
+
+#: includes/helper.php:525
+msgid "Cargo financiero"
+msgstr ""
+
+#: includes/config-options.php:166
+msgid "Checkout Background Color"
+msgstr ""
+
+#: includes/config-options.php:158
+msgid "Checkout Logo URL"
+msgstr ""
+
+#: includes/config-options.php:174
+msgid "Checkout Primary Color"
+msgstr ""
+
+#: includes/config-options.php:138
+msgid "Checkout Theme"
+msgstr ""
+
+#: includes/config-options.php:150
+msgid "Checkout Title"
+msgstr ""
+
+#: templates/category-settings.php:8 templates/product-settings.php:7
+msgid "Common plans"
+msgstr ""
+
+#: mobbex-for-woocommerce.php:210
+msgid "Contribute"
+msgstr ""
+
+#: includes/config-options.php:143 includes/config-options.php:195
+msgid "Dark Theme"
+msgstr ""
+
+#: includes/config-options.php:130
+msgid "Description"
+msgstr ""
+
+#: includes/helper.php:525
+msgid "Descuento"
+msgstr ""
+
+#: includes/config-options.php:300
+msgid ""
+"Deshabilita la subdivisión de los métodos de pago en la página de "
+"finalización de la compra. Las opciones se verán en el checkout."
+msgstr ""
+
+#: includes/config-options.php:307
+msgid "Deshabilitar plantilla"
+msgstr ""
+
+#: includes/config-options.php:308
+msgid "Deshabilitar plantilla para el mostrado de los métodos de pago."
+msgstr ""
+
+#: includes/config-options.php:254
+msgid "Disable"
+msgstr ""
+
+#: mobbex-for-woocommerce.php:209
+msgid "Documentation"
+msgstr ""
+
+#: includes/helper.php:287
+msgid "Empty Payment UID or params"
+msgstr ""
+
+#: includes/config-options.php:265
+msgid "Enable 2-step Payment Mode."
+msgstr ""
+
+#: includes/config-options.php:11
+msgid "Enable checking out with Mobbex."
+msgstr ""
+
+#: templates/category-settings.php:52 templates/product-settings.php:34
+msgid ""
+"Enable it to allow payment for this product to be received by another "
+"merchant."
+msgstr ""
+
+#: includes/config-options.php:37
+msgid "Enable Mobbex Button experience."
+msgstr ""
+
+#: includes/config-options.php:44
+msgid "Enable Mobbex Wallet experience."
+msgstr ""
+
+#: templates/category-settings.php:49 templates/product-settings.php:33
+msgid "Enable Multisite"
+msgstr ""
+
+#: includes/config-options.php:30
+msgid "Enable Test Mode."
+msgstr ""
+
+#: includes/config-options.php:9
+msgid "Enable/Disable"
+msgstr ""
+
+#: includes/config-options.php:263
+msgid "Enable/Disable 2-step Payment Mode"
+msgstr ""
+
+#: includes/config-options.php:35
+msgid "Enable/Disable Button"
+msgstr ""
+
+#: includes/config-options.php:242
+msgid "Enable/Disable Multicard"
+msgstr ""
+
+#: includes/config-options.php:250
+msgid "Enable/Disable Multivendor"
+msgstr ""
+
+#: includes/config-options.php:28
+msgid "Enable/Disable Test Mode"
+msgstr ""
+
+#: includes/config-options.php:42
+msgid "Enable/Disable Wallet"
+msgstr ""
+
+#: templates/category-settings.php:93 templates/product-settings.php:80
+msgid "Entity UID"
+msgstr ""
+
+#: includes/config-options.php:49
+msgid "Financial Information"
+msgstr ""
+
+#: includes/config-options.php:202
+msgid "Financial Widget Button Color"
+msgstr ""
+
+#: includes/config-options.php:210
+msgid "Financial Widget Button Font Color"
+msgstr ""
+
+#: includes/config-options.php:218
+msgid "Financial Widget Button Font Size"
+msgstr ""
+
+#: includes/config-options.php:226
+msgid "Financial Widget Button Padding"
+msgstr ""
+
+#: includes/config-options.php:190
+msgid "Financial Widget Theme"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://mobbex.com/"
+msgstr ""
+
+#: includes/config-options.php:65
+msgid "If you ask for DNI field on checkout please provide the custom field."
+msgstr ""
+
+#: templates/product-settings.php:93
+msgid "Is a subscription:"
+msgstr ""
+
+#: includes/config-options.php:142 includes/config-options.php:194
+msgid "Light Theme"
+msgstr ""
+
+#: includes/config-options.php:271
+msgid "Mail de pedido procesado"
+msgstr ""
+
+#. Name of the plugin
+msgid "Mobbex for Woocommerce"
+msgstr ""
+
+#: gateway.php:30
+msgid ""
+"Mobbex Payment Gateway redirects customers to Mobbex to enter their payment "
+"information."
+msgstr ""
+
+#: mobbex-for-woocommerce.php:151
+msgid "Mobbex requires OpenSSL >= 1.0.1 to be installed on your server"
+msgstr ""
+
+#: mobbex-for-woocommerce.php:144
+msgid "Mobbex requires the cURL PHP extension to be installed on your server"
+msgstr ""
+
+#: mobbex-for-woocommerce.php:148
+msgid "Mobbex requires the JSON PHP extension to be installed on your server"
+msgstr ""
+
+#: mobbex-for-woocommerce.php:132
+msgid "Mobbex requires WooCommerce to be activated"
+msgstr ""
+
+#: mobbex-for-woocommerce.php:140
+msgid "Mobbex requires WooCommerce version 2.6 or greater"
+msgstr ""
+
+#. Author of the plugin
+msgid "mobbex.com"
+msgstr ""
+
+#: includes/config-options.php:291
+msgid "Modo Debug"
+msgstr ""
+
+#: includes/config-options.php:299
+msgid "Modo unificado"
+msgstr ""
+
+#: includes/config-options.php:183
+msgid "Mostrar el botón de financiación en la página del carrito."
+msgstr ""
+
+#: templates/category-settings.php:45 templates/product-settings.php:27
+msgid "Multisite"
+msgstr ""
+
+#: templates/product-settings.php:73
+msgid "Multivendor"
+msgstr ""
+
+#: templates/category-settings.php:59 templates/product-settings.php:42
+msgid "New Store"
+msgstr ""
+
+#: templates/category-settings.php:67 templates/product-settings.php:48
+msgid "New Store Name"
+msgstr ""
+
+#: includes/config-options.php:78
+msgid "Order status approve"
+msgstr ""
+
+#: includes/config-options.php:96
+msgid "Order status failed"
+msgstr ""
+
+#: includes/config-options.php:87
+msgid "Order status on hold"
+msgstr ""
+
+#: includes/config-options.php:104
+msgid "Order status refunded"
+msgstr ""
+
+#: includes/config-options.php:72
+msgid "Orders Configuration"
+msgstr ""
+
+#: includes/config-options.php:272
+msgid "Para uso de operatoria en 2 pasos"
+msgstr ""
+
+#: includes/config-options.php:124
+msgid "Pay with Mobbex"
+msgstr ""
+
+#: controllers/payment.php:238
+msgid "Payment approved"
+msgstr ""
+
+#: includes/admin/order.php:144
+msgid "Payment Capture ERROR: "
+msgstr ""
+
+#: controllers/payment.php:240
+msgid "Payment failed"
+msgstr ""
+
+#: controllers/payment.php:231
+msgid "Payment refunded"
+msgstr ""
+
+#: includes/admin/order.php:139
+msgid "Payment Total Captured: $ "
+msgstr ""
+
+#: templates/product-settings.php:3
+msgid "Plans Configuration"
+msgstr ""
+
+#: templates/category-settings.php:11 templates/product-settings.php:14
+msgid "Plans with advanced rules"
+msgstr ""
+
+#: includes/helper.php:284
+msgid "Plugin is not ready"
+msgstr ""
+
+#: templates/category-settings.php:96
+msgid "Product entity uid."
+msgstr ""
+
+#: mobbex-for-woocommerce.php:211
+msgid "Report Issues"
+msgstr ""
+
+#: includes/config-options.php:283
+msgid "Reseller ID"
+msgstr ""
+
+#: templates/product-settings.php:4
+msgid "Select the plans you want to appear in the checkout"
+msgstr ""
+
+#: includes/config-options.php:79
+msgid "Select the status for approve orders."
+msgstr ""
+
+#: includes/config-options.php:97
+msgid "Select the status for failed orders."
+msgstr ""
+
+#: includes/config-options.php:88
+msgid "Select the status for on hold orders."
+msgstr ""
+
+#: includes/config-options.php:105
+msgid "Select the status for refunded orders."
+msgstr ""
+
+#: mobbex-for-woocommerce.php:188
+msgid "Settings"
+msgstr ""
+
+#: includes/helper/class-cart-helper.php:99
+#: includes/helper/class-order-helper.php:101
+msgid "Shipping: "
+msgstr ""
+
+#: includes/config-options.php:50
+msgid "Show financial information in all products."
+msgstr ""
+
+#: templates/category-settings.php:56 templates/product-settings.php:40
+msgid "Store"
+msgstr ""
+
+#: templates/product-settings.php:100
+msgid "Subscription UID:"
+msgstr ""
+
+#: templates/product-settings.php:87
+msgid "Subscriptions"
+msgstr ""
+
+#: mobbex-for-woocommerce.php:414
+msgid "The cart cannot have products from different sellers at the same time."
+msgstr ""
+
+#: templates/product-settings.php:81
+msgid "The uid of the product entity."
+msgstr ""
+
+#: includes/config-options.php:131
+msgid "This description will be shown on user checkout."
+msgstr ""
+
+#: includes/config-options.php:123
+msgid "This title will be shown on user checkout."
+msgstr ""
+
+#: includes/config-options.php:121
+msgid "Title"
+msgstr ""
+
+#: templates/product-settings.php:94
+msgid "Turns the product into a subscription."
+msgstr ""
+
+#: includes/config-options.php:256
+msgid "Unified"
+msgstr ""
+
+#: includes/config-options.php:64
+msgid "Use custom DNI field"
+msgstr ""
+
+#: mobbex-for-woocommerce.php:208
+msgid "Website"
+msgstr ""
+
+#: includes/config-options.php:182
+msgid "Widget de financiación en carrito"
+msgstr ""
+
+#: mobbex-for-woocommerce.php:128
+msgid "WooCommerce needs to be installed and activated."
+msgstr ""
+
+#: templates/product-settings.php:74
+msgid "Write the UID of the entity corresponding to the product."
+msgstr ""
+
+#: includes/config-options.php:167
+msgid "You can customize your Checkout Background Color from here."
+msgstr ""
+
+#: includes/config-options.php:159
+msgid ""
+"You can customize your Checkout Logo from here. The logo URL must be HTTPS "
+"and must be only set if required. If not set the Logo set on Mobbex will be "
+"used. Dimensions: 250x250 pixels"
+msgstr ""
+
+#: includes/config-options.php:175
+msgid ""
+"You can customize your Checkout Primary Color for Buttons and TextFields "
+"from here."
+msgstr ""
+
+#: includes/config-options.php:139
+msgid "You can customize your Checkout Theme from here."
+msgstr ""
+
+#: includes/config-options.php:151
+msgid "You can customize your Checkout Title from here."
+msgstr ""
+
+#: includes/config-options.php:203
+msgid "You can customize your financial widget button color from here."
+msgstr ""
+
+#: includes/config-options.php:211
+msgid "You can customize your financial widget button font color from here."
+msgstr ""
+
+#: includes/config-options.php:219
+msgid "You can customize your financial widget button font size from here."
+msgstr ""
+
+#: includes/config-options.php:227
+msgid "You can customize your financial widget button padding from here."
+msgstr ""
+
+#: includes/config-options.php:191
+msgid "You can customize your Financial Widget Theme from here."
+msgstr ""
+
+#: includes/config-options.php:284
+msgid ""
+"You can customize your Reseller ID from here. This field is optional and "
+"must be used only if was specified by the main seller."
+msgstr ""
+
+#: includes/logger.php:12
+msgid "You need to specify an API Key and an Access Token."
+msgstr ""
+
+#: includes/config-options.php:23 templates/category-settings.php:83
+#: templates/product-settings.php:66
+msgid "Your Mobbex access token."
+msgstr ""
+
+#: includes/config-options.php:17 templates/category-settings.php:76
+#: templates/product-settings.php:57
+msgid "Your Mobbex API key."
+msgstr ""
+
+#: mobbex-for-woocommerce.php:136
+msgid ""
+"Your site needs to be served via HTTPS to comunicate securely with Mobbex."
+msgstr ""

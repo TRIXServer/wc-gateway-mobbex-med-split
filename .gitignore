@@ -1,0 +1,14 @@
+.DS_Store
+
+deploy/
+.vscode/
+
+copy.js
+build.js
+
+mobbex.*.zip
+wc-mobbex*.zip
+
+package.json
+package-lock.json
+node_modules
